@@ -156,12 +156,13 @@ flutter gen-l10n
 
 ---
 
-## 🖼️ Screenshots (optional)
+## 🖼️ Screenshots
 Add UI screenshots to `assets/images/` and showcase them here:
 ```
-![image1](https://github.com/user-attachments/assets/0982a5d9-577d-4763-9b69-3ca5dd4def4c)
-![image2](https://github.com/user-attachments/assets/dba12a38-b36d-4196-bf42-7d3138ad5840)
-![image3](https://github.com/user-attachments/assets/4815575b-c78e-4142-9450-367437d91e8f)
+![image (3)](https://github.com/user-attachments/assets/c407b074-6d7c-432f-a269-37e6f5228fb9)
+![image (2)](https://github.com/user-attachments/assets/aadf866b-3c94-4cc5-a087-15707fa2df86)
+![image](https://github.com/user-attachments/assets/ac27488d-81cd-42a5-bfd4-9aef01e8de09)
+
 
 ```
 
