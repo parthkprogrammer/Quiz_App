@@ -105,29 +105,6 @@ quize_app/
 
 ---
 
-## 🧪 Sample Question Format
-Create JSON files under `assets/questions/` and register the folder in `pubspec.yaml`:
-```json
-[
-  {
-    "id": "q1",
-    "question": "Which of the following are programming languages?",
-    "options": ["Python", "HTML", "CSS", "Dart"],
-    "answerIndex": [0, 3],
-    "explanation": "Python and Dart are languages; HTML/CSS are markup/style."
-  }
-]
-```
-Update `pubspec.yaml`:
-```yaml
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/questions/
-```
-
----
-
 ## ⚙️ Configuration
 - **Timer per question:** configurable in `lib/services/quiz_config.dart`
 - **Randomization:** toggle shuffle for questions & options
