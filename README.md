@@ -159,10 +159,9 @@ flutter gen-l10n
 ## 🖼️ Screenshots
 Add UI screenshots to `assets/images/` and showcase them here:
 ```
-![image (3)](https://github.com/user-attachments/assets/c407b074-6d7c-432f-a269-37e6f5228fb9)
-![image (2)](https://github.com/user-attachments/assets/aadf866b-3c94-4cc5-a087-15707fa2df86)
-![image](https://github.com/user-attachments/assets/ac27488d-81cd-42a5-bfd4-9aef01e8de09)
-
+![Home Screen](assets/images/image(2).jpg)
+![Quiz Screen](assets/images/image(1).jpg)
+![Result Screen](assets/images/image.jpg)
 
 ```
 
